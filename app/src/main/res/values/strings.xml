@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="poster">This is a place for the poster to go</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="highest_rated_movies">Highest Rated Movies</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="favorite">Favorite</string>
+    <string name="open_trailer">Open trailer</string>
+    <string name="ReleaseDateDetail">Release Date </string>
+    <string name="averageDetail">Average Vote: </string>
+    <string name="authorDetail">Author: </string>
+
+    <integer name="popularmovies">1</integer>
+    <integer name="highestrated">2</integer>
+    <bool name="favoritemovies">true</bool>
+
+
+
+</resources>
